@@ -2,7 +2,7 @@ This is a mirror of http://www.vim.org/scripts/script.php?script_id=914
 
 The sieve syntax file is based on 'Sieve: A Mail Filtering Language' (RFC3028) by The Internet Society 2001 (http://www.faqs.org/rfcs/rfc3028.html).
 
-Sieve is a proposed internet-standard language for effectively filtering mail. It can delete mail, redirect messages other mail boces or automatically save mail into a specific folder.
+Sieve is a proposed internet-standard language for effectively filtering mail. It can delete mail, redirect messages other mail boxes or automatically save mail into a specific folder.
 
 A good overview of the language and its capabilities can be found at http://www.cyrusoft.com/sieve/.
 
