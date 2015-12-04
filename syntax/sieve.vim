@@ -25,7 +25,7 @@ syn keyword sieveStatement	allof anyof exists
 syn keyword sieveIdentifier	header address envelope 
 syn keyword sieveStatement	keep discard redirect reject
 syn keyword sieveStatement	require stop
-syn keyword sieveConditional	if elseif else frontis
+syn keyword sieveConditional	if elsif else frontis
 
 " pattern matching for comments
 syn match   sieveComment	"^\ *\#.*$"
