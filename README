@@ -4,6 +4,6 @@ The sieve syntax file is based on 'Sieve: A Mail Filtering Language' (RFC3028) b
 
 Sieve is a proposed internet-standard language for effectively filtering mail. It can delete mail, redirect messages other mail boces or automatically save mail into a specific folder.
 
-A good overview of the language and its capabilities can be found at http://www.cyrusoft.com/sieve/.
+An overview of the language and its capabilities can be found at https://en.wikipedia.org/wiki/Sieve_%28mail_filtering_language%29.
 
 For an installation follow the instructions in ':help syntax'.
